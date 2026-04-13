@@ -1,4 +1,2 @@
- HEAD
-Message from main branch
-Message from feature branch 
-feature-greeting
+Feature improvement message
+Updated content from feature branch
